@@ -1,0 +1,11 @@
+path: C:/DR_YOLO/Diabetic_Retinopathy_YOLO
+
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: Microaneurysm
+  1: Haemorrhage
+  2: Hard_Exudate
+  3: Soft_Exudate
